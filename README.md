@@ -2,7 +2,7 @@
 
 ![Danger](danger.jpg)
 
-[![PlatyPew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=platypew&count_private=true&show_icons=true&theme=onedark&custom_title=☮︎%20PlatyPew)](https://github.com/PlatyPew)
+[![PlatyPew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=platypew&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&custom_title=☮︎%20PlatyPew)](https://github.com/PlatyPew)
 
 ```
 $ whoami
