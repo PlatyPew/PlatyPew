@@ -22,4 +22,4 @@ $ ls skills/
 [![DotFiles Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=dotfiles&theme=onedark)](https://github.com/PlatyPew/dotfiles)
 [![PwnBox2 Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=PwnBox2&theme=onedark)](https://github.com/PlatyPew/PwnBox2)
 [![PicoCTF Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=picoctf-2018-writeup&theme=onedark)](https://github.com/PlatyPew/picoctf-2018-writeup)
-[![OSSA Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=OSSA-notes&theme=onedark)](https://github.com/PlatyPew/OSSA-Notes)
+[![Neovim Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=neovim-init.lua&theme=onedark)](https://github.com/PlatyPew/neovim-init.lua)
