@@ -21,7 +21,7 @@ $ ls skills/
 [![DotFiles Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=dotfiles&theme=onedark)](https://github.com/PlatyPew/dotfiles)
 [![PwnBox2 Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=PwnBox2&theme=onedark)](https://github.com/PlatyPew/PwnBox2)
 [![PicoCTF Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=picoctf-2018-writeup&theme=onedark)](https://github.com/PlatyPew/picoctf-2018-writeup)
-[![Neovim Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=neovim-init.lua&theme=onedark)](https://github.com/PlatyPew/neovim-init.lua)
+[![FormatInstaller Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=format-installer.nvim&theme=onedark)](https://github.com/PlatyPew/format-installer.nvim)
 
 Nothing left to see here, so here is a fish living life dangerously.
 
