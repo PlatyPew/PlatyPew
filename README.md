@@ -30,9 +30,9 @@ $ cowsay < wisdom
 ### 💻 Check out some of my work!
 
 [![DotFiles Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=dotfiles&theme=onedark)](https://github.com/PlatyPew/dotfiles)
-[![PwnBox2 Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=PwnBox2&theme=onedark)](https://github.com/PlatyPew/PwnBox2)
+[![PwnPad Card](https://github-readme-stats.vercel.app/api/pin/?username=pwnpad&repo=pwnpad&theme=onedark)](https://github.com/pwnpad/pwnpad)
 [![PicoCTF Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=picoctf-2018-writeup&theme=onedark)](https://github.com/PlatyPew/picoctf-2018-writeup)
-[![FormatInstaller Card](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=format-installer.nvim&theme=onedark)](https://github.com/PlatyPew/format-installer.nvim)
+[![Neovim](https://github-readme-stats.vercel.app/api/pin/?username=platypew&repo=neovim-init.lua&theme=onedark)](https://github.com/PlatyPew/neovim-init.lua)
 
 #### 📈 Some stats idk
 [![PlatyPew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=platypew&count_private=true&include_all_commits=true&show_icons=true&theme=onedark&custom_title=☮︎%20PlatyPew)](https://github.com/PlatyPew)
